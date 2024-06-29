@@ -1,0 +1,27 @@
+
+# consts
+width = 1000
+height = 600
+mapSizeX = 30
+mapSizeY = 30
+tileSizeX = 20
+tileSizeY = 20
+coolingPower = 3
+ballVacantTime = 500
+ballSize = 6
+ballBreedCD = 2
+deathAfterCapture = 1
+spdDownFPS = 30
+spdStdFPS = 60
+spdUpFPS = 120
+
+# start settings
+normalBalls = 10
+WBalls = { $normalBalls / 2 }
+RBalls = $normalBalls
+GBalls = $normalBalls
+BBalls = $normalBalls
+
+# other
+font = "menu/Unigeo64-Medium-trial.ttf"
+

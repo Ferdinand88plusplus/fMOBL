@@ -1,0 +1,32 @@
+
+# iscreen (not iscreen from vangers!!!) text binds for layers
+
+@PUSH_LEFT STR "menu/"
+
+@IMPORT {width height} "gameprops.ffg"
+
+bindsCount = 3
+
+@DELETE AFTER_READ
+
+bgSizeX = 400
+bgSizeY = 300
+
+bgBindX = 100
+bgBindY = 150
+
+bindX = { 40 + $bgBindX }
+bindY = { 65 + $bgBindY }
+
+bindX = { 40 + $bgBindX }
+bindY = { 140 + $bgBindY }
+
+bindX = { 40 + $bgBindX }
+bindY = { 225 + $bgBindY }
+
+bgImg = "imgs/iscrBG.png"
+
+textSize = 35
+
+textWin = "texts/winCapture.txt"
+textDefeatNEnoughBalls = "texts/nenoughBalls.txt"

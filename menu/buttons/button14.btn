@@ -1,0 +1,8 @@
+
+event = 14
+x = 750
+y = 35
+radius = 30
+sprite = "menu/imgs/speeddown"
+unpressable = 1
+alredyPressed = 0

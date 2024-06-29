@@ -1,0 +1,8 @@
+
+event = 11
+x = 920
+y = 475
+radius = 35
+sprite = "menu/imgs/stop"
+unpressable = 0
+alredyPressed = 1

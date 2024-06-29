@@ -1,0 +1,8 @@
+
+event = 3
+x = 920
+y = 185
+radius = 35
+sprite = "menu/imgs/vacant"
+unpressable = 0
+alredyPressed = 1

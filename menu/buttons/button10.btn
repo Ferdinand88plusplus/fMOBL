@@ -1,0 +1,8 @@
+
+event = 10
+x = 840
+y = 475
+radius = 35
+sprite = "menu/imgs/paint"
+unpressable = 0
+alredyPressed = 0

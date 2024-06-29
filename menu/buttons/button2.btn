@@ -1,0 +1,8 @@
+
+event = 2
+x = 840
+y = 185
+radius = 35
+sprite = "menu/imgs/blue"
+unpressable = 0
+alredyPressed = 0

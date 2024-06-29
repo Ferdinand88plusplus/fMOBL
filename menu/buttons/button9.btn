@@ -1,0 +1,8 @@
+
+event = 9
+x = 755
+y = 475
+radius = 35
+sprite = "menu/imgs/breed"
+unpressable = 0
+alredyPressed = 0

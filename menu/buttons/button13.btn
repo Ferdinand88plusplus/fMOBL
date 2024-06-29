@@ -1,0 +1,8 @@
+
+event = 13
+x = 825
+y = 35
+radius = 30
+sprite = "menu/imgs/speedup"
+unpressable = 1
+alredyPressed = 0

@@ -1,0 +1,8 @@
+
+event = 8
+x = 675
+y = 475
+radius = 35
+sprite = "menu/imgs/destroy"
+unpressable = 0
+alredyPressed = 0

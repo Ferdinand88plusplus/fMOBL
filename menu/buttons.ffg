@@ -1,0 +1,12 @@
+
+# 4 up buttons, 4 down buttons, 4 event buttons,
+# and 3 is 2 speed up/down and pause.
+buttonCount = 15
+
+beg = "buttons/button"
+end = ".btn"
+
+btnsBGX = 600
+btnsBGY = 0
+
+btnsBGImg = "menu/imgs/btnsBG.png"

@@ -1,0 +1,8 @@
+
+event = 12
+x = 950 
+y = 50
+radius = 35
+sprite = "menu/imgs/pause"
+unpressable = 1
+alredyPressed = 0
