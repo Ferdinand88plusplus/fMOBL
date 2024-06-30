@@ -3,6 +3,7 @@
 
 
 sf::Font globalFont;
+#define ISCREEN
 
 #include "frule.h"
 #include "field.h"
